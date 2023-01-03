@@ -1,7 +1,7 @@
 
-# Project Title
+# Ecommerce-Api
 
-A brief description of what this project does and who it's for
+A project can use to make the graphql connection between frontend and backend
 
 ## instalation
 - [Install Node.js](https://nodejs.org/en/)
